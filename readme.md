@@ -43,7 +43,7 @@ LBN: Longbenton
 MAN: Manors
 MLF: Millfield
 MSN: Monkseaton
-MSP: St Peter's
+MSP: St Peter\'s
 MTS: Monument N-S
 MTW: Monument W-E
 MWL: Meadow Well
